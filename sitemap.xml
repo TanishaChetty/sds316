@@ -1,83 +1,311 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drnikko.github.io/sds316/schedule.html</loc>
-    <lastmod>2026-09-16T04:34:16.613Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.229Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/lectures/template-seminar.html</loc>
-    <lastmod>2026-09-13T23:22:46.092Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/schedule.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/lectures/week2-c1.html</loc>
-    <lastmod>2026-09-16T04:31:06.608Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week6-c2.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/syllabus.html</loc>
-    <lastmod>2026-09-09T22:50:12.773Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week5-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/class-log.html</loc>
-    <lastmod>2026-09-10T21:26:33.490Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/template-lab.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/index.html</loc>
-    <lastmod>2026-09-09T22:50:12.752Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week1-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/projects/template/index.html</loc>
-    <lastmod>2026-09-09T22:50:12.772Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week4-c2.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/projects/demo/stage2.html</loc>
-    <lastmod>2026-09-09T22:50:12.771Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week2-c2.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/projects/demo/stage2.2.html</loc>
-    <lastmod>2026-09-10T00:18:03.489Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week3-c2.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/assignments.html</loc>
-    <lastmod>2026-09-13T23:31:09.141Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/examples.html</loc>
+    <lastmod>2026-10-28T23:08:25.227Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/tech-stack.html</loc>
-    <lastmod>2026-09-09T22:50:12.773Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/datasets.html</loc>
+    <lastmod>2026-10-28T23:08:25.227Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/examples.html</loc>
-    <lastmod>2026-09-09T22:50:12.748Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/wa-state-police-social-spending/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/projects/demo/index.html</loc>
-    <lastmod>2026-09-09T22:50:12.770Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/wa-state-police-social-spending/stage2.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/projects/template/research-plan.html</loc>
-    <lastmod>2026-09-09T22:50:12.773Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.358Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/projects/index.html</loc>
-    <lastmod>2026-09-09T22:50:12.771Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/surveillance NYC/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:27.193Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/lectures.html</loc>
-    <lastmod>2026-09-16T04:30:18.314Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/rae/stage2_writing.html</loc>
+    <lastmod>2026-10-28T23:08:25.582Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/datasets.html</loc>
-    <lastmod>2026-09-09T22:50:12.748Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/rae/stage2.html</loc>
+    <lastmod>2026-10-28T23:08:25.581Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/lectures/template-lab.html</loc>
-    <lastmod>2026-09-09T22:50:12.759Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/template-stage1/index.html</loc>
+    <lastmod>2026-10-28T23:08:27.284Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/lectures/week2-c2.html</loc>
-    <lastmod>2026-09-16T04:35:13.653Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/jessie_project/stage2.2.html</loc>
+    <lastmod>2026-10-28T23:08:25.362Z</lastmod>
   </url>
   <url>
-    <loc>https://drnikko.github.io/sds316/lectures/week1-c1.html</loc>
-    <lastmod>2026-09-16T04:30:02.656Z</lastmod>
+    <loc>https://TanishaChetty.github.io/sds316/projects/jessie_project/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.362Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/template-stage2/stage2-data.html</loc>
+    <lastmod>2026-10-28T23:08:27.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/template-stage2/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:27.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/reagan/index.html</loc>
+    <lastmod>2026-10-28T23:08:27.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/reagan/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:27.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/immigrants-crime/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/hayden_project/stage2-data.html</loc>
+    <lastmod>2026-10-28T23:08:25.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/hayden_project/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/kaylas-deliverable1/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/kaylas-deliverable2/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/kaylas-deliverable2/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/demo/stage2.2.html</loc>
+    <lastmod>2026-10-28T23:08:25.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/demo/stage2.html</loc>
+    <lastmod>2026-10-28T23:08:25.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/leah/stage2.2.html</loc>
+    <lastmod>2026-10-28T23:08:25.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/leah/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/g.demographics-cluster.html</loc>
+    <lastmod>2026-10-28T23:08:25.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/tanisha-template/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:27.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/tanisha-template/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:27.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/tech-stack.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures.html</loc>
+    <lastmod>2026-10-28T23:08:25.229Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/assignments.html</loc>
+    <lastmod>2026-10-28T23:08:25.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/g.government-involvement.html</loc>
+    <lastmod>2026-10-28T23:08:25.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/tanisha-template/stage-2.html</loc>
+    <lastmod>2026-10-28T23:08:27.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/tanisha-template/index.html</loc>
+    <lastmod>2026-10-28T23:08:27.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/leah/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:25.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/leah/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/leah/stage2.1.html</loc>
+    <lastmod>2026-10-28T23:08:25.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/demo/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/kaylas-deliverable2/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:25.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/kaylas-deliverable2/kayla-stage2.html</loc>
+    <lastmod>2026-10-28T23:08:25.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/kaylas-deliverable1/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/hayden_project/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:25.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/hayden_project/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/immigrants-crime/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/reagan/stage2.html</loc>
+    <lastmod>2026-10-28T23:08:27.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/reagan/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:27.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/template-stage2/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:27.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/template-stage2/index.html</loc>
+    <lastmod>2026-10-28T23:08:27.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/jessie_project/stage2.html</loc>
+    <lastmod>2026-10-28T23:08:25.362Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/jessie_project/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.362Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/template-stage1/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:27.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/rae/stage2_data.html</loc>
+    <lastmod>2026-10-28T23:08:25.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/rae/research-plan.html</loc>
+    <lastmod>2026-10-28T23:08:25.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/rae/index.html</loc>
+    <lastmod>2026-10-28T23:08:25.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/surveillance NYC/index.html</loc>
+    <lastmod>2026-10-28T23:08:27.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/g.geography.html</loc>
+    <lastmod>2026-10-28T23:08:25.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/wa-state-police-social-spending/stage2-writing.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/projects/wa-state-police-social-spending/index.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/syllabus.html</loc>
+    <lastmod>2026-10-28T23:08:27.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week7-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week8-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week8-c2.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week3-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week5-c2.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week4-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/template-seminar.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/lectures/week2-c1.html</loc>
+    <lastmod>2026-10-28T23:08:25.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TanishaChetty.github.io/sds316/class-log.html</loc>
+    <lastmod>2026-10-28T23:08:25.227Z</lastmod>
   </url>
 </urlset>
