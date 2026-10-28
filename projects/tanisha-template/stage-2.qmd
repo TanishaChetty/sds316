@@ -8,11 +8,12 @@ execute:
 
 ```{python}
 import pandas as pd
+from pyprojroot import here
 ```
 
 ```{python}
-
-april26 = pd.read_csv("projects/tanisha-template/data/export.csv")
+file_path = here("projects/tanisha-template/data/export.csv")
+april26 = pd.read_csv(file_path, sep=',')
 april26.head()
 ```
 
